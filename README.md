@@ -153,22 +153,28 @@ readability, and realistic user experience within the given timebox.
 
 ## 🖼️Screenshots and Demo
 
-Screenshots (to be added):
+Screenshots:
 - Login Screen
 - OTP Verification Screen
 - Session Screen
+- Project Structure
+  
+## Note: 
+For demonstration purposes during development, OTP values were logged to Logcat.
+These logs are removed in the final public version of the repository.
 
 Example placeholders:
 <p align="center">
     
 <img src="https://github.com/user-attachments/assets/408ebf32-a9c7-4f89-8aa9-020cd8ac2f3f" alt="Login Screen" width="300"/>
-<img src="https://github.com/user-attachments/assets/7e1ed4ca-580e-49a9-901d-e2d4aecf2870" alt="Login Screen" width="300"/>
-<img src="https://github.com/user-attachments/assets/80c95166-009a-41f3-8880-1370b0645661" alt="Login Screen" width="300"/>
+<img src="https://github.com/user-attachments/assets/7e1ed4ca-580e-49a9-901d-e2d4aecf2870" alt="OTP Screen Screen" width="300"/>
+<img src="https://github.com/user-attachments/assets/80c95166-009a-41f3-8880-1370b0645661" alt="Session Screen" width="300"/>
+<img  src="https://github.com/user-attachments/assets/16873698-2bbc-4f65-bc0d-0879862cf1e0" alt="Project Structure" width="300"/>
 
 </p>
-Demo Video (to be added):
-[Watch Demo Video](videos/demo.mp4)
-
+Demo Video:
+<a href="https://drive.google.com/drive/folders/1SZcw1uvpYEzc29GGbS14Qvm7hHf1RFEA?usp=drive_link">
+  <p>Watch Demo from Github</p>
 
 ## 🤖 GPT Usage Disclosure
 
