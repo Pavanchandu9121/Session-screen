@@ -174,7 +174,7 @@ Example placeholders:
 </p>
 Demo Video:
 <a href="https://drive.google.com/drive/folders/1SZcw1uvpYEzc29GGbS14Qvm7hHf1RFEA?usp=drive_link">
-  <p>Watch Demo from Github</p>
+  <p>Watch Demo from Drive</p>
 
 ## 🤖 GPT Usage Disclosure
 
